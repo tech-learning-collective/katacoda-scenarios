@@ -1,0 +1,29 @@
+{
+    "title": "Commands versus Buttons",
+    "description": "Understand the \"command\" paradigm as opposed to the \"buttons\" paradigm of using your computer.",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "credits": "https://TechLearningCollective.com/"
+        },
+        "steps": [
+            {
+                "title": "What is a command line?",
+                "text": "step1.md"
+            },
+            {
+                "title": "",
+                "text": "step2.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "uilayout": "editor-terminal"
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
