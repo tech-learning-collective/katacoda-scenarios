@@ -20,7 +20,7 @@ To help develop our Katacoda scenario content, you can use the provided developm
     vagrant up
     ```
 
-Once up, check out the example scenarios in the `~vagrant/scenario-examples` directory.
+Once up, check out the example scenarios in the dev environment's `~vagrant/scenario-examples` directory.
 
 ## Katacoda content structure
 
