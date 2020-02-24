@@ -1,6 +1,6 @@
 Welcome to your (first?) command line environment! This Web page is divided into three panes and is intended to show the important differences between the different types of interfaces available to you when you use your computer.
 
-1. The first pane contains this text that you&rsquo;re reading now.
+1. The first pane contains this text that you&rsquo;re reading now. If you are using a mobile device or simply have a very narrow browser window, this is the only pane that will be visible, but **you can switch to the other panes by swiping left on the header of this page**.
 1. The second pane at the top-right of the window shows you a toolbar with a folder icon, a circular arrow (&ldquo;refresh&rdquo;) button, and a tree-like diagram with a couple of files listed in it:  
     ![Screenshot of the Katacoda editor pane.](https://github.com/tech-learning-collective/katacoda-scenarios/raw/master/foundations-command-line-basics/commands-versus-buttons/assets/katacoda-editor-pane.png)  
     This second pane is an example of a [*Graphical User Interface* or *GUI*](https://en.wikipedia.org/wiki/Graphical_user_interface) for short; there are graphical icons and buttons you can press to change the display or take certain actions such as refreshing the pane&rsquo;s contents.
