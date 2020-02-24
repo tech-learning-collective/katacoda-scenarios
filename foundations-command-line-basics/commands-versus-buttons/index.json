@@ -18,8 +18,12 @@
                 "text": "step2.md"
             },
             {
-                "title": "Understanding the command line paradigm",
+                "title": "User interfaces as metaphors",
                 "text": "step3.md"
+            },
+            {
+                "title": "Understanding the command line paradigm",
+                "text": "step4.md"
             }
         ],
         "finish": {

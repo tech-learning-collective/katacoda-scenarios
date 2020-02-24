@@ -8,7 +8,7 @@ Most [Tech Learning Collective](https://techlearningcollective.com/) practice la
 
 # Overview
 
-In this module, you'll learn:
+In this module, you&rsquo;ll learn:
 
 * What a command line interface is.
 * What a graphical interface is.
