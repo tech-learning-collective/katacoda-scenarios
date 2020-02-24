@@ -1,10 +1,12 @@
 {
     "title": "Commands versus Buttons",
     "description": "Understand the \"command\" paradigm as opposed to the \"buttons\" paradigm of using your computer.",
+    "difficulty": "beginner",
+    "time": "~25 minutes",
     "details": {
         "intro": {
             "text": "intro.md",
-            "credits": "https://TechLearningCollective.com/"
+            "credits": "Created by and for [Tech Learning Collective](https://techlearningcollective.com/)."
         },
         "steps": [
             {

@@ -1,10 +1,11 @@
-Welcome to your (first?) command line environment!
-
-This Web page is divided into three panes and is intended to show the important differences between the different types of interfaces available to you when you use your computer.
+Welcome to your (first?) command line environment! This Web page is divided into three panes and is intended to show the important differences between the different types of interfaces available to you when you use your computer.
 
 1. The first pane contains this text that you&rsquo;re reading now.
-1. The second pane at the top-right of the window shows you a toolbar with a folder icon, a circular arrow (&ldquo;refresh&rdquo;) button, and a tree-like diagram with a couple of files listed in it. This second pane is an example of a *Graphical User Interface* or *GUI* for short; there are graphical icons and buttons you can press to change the display or take certain actions such as refreshing the pane&rsquo;s contents.
-1. Finally, in the third pane, there is the *Command Line Interface* or *CLI* for short, which currently simply reads, &ldquo;Your Interactive Bash Terminal.&rdquo;
+1. The second pane at the top-right of the window shows you a toolbar with a folder icon, a circular arrow (&ldquo;refresh&rdquo;) button, and a tree-like diagram with a couple of files listed in it:  
+    ![Screenshot of the Katacoda editor pane.](https://github.com/tech-learning-collective/katacoda-scenarios/raw/master/foundations-command-line-basics/commands-versus-buttons/assets/katacoda-editor-pane.png)  
+    This second pane is an example of a *Graphical User Interface* or *GUI* for short; there are graphical icons and buttons you can press to change the display or take certain actions such as refreshing the pane&rsquo;s contents.
+1. Finally, in the third pane, there is the *Command Line Interface* or *CLI* for short, which currently simply reads, &ldquo;Your Interactive Bash Terminal.&rdquo;  
+    ![Screenshot of the Katacoda terminal pane.](https://github.com/tech-learning-collective/katacoda-scenarios/raw/master/foundations-command-line-basics/commands-versus-buttons/assets/katacoda-terminal-pane.png)
 
 Notice that in the CLI, there are no buttons you can press. There are also no graphical icons. Instead, everything is presented to you as text that you must read.
 
