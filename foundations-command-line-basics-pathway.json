@@ -6,6 +6,11 @@
       "course_id": "commands-versus-buttons",
       "title": "Commands versus Buttons",
       "description": "Understand the \"command\" paradigm as opposed to the \"buttons\" paradigm of using your computer."
+    },
+    {
+      "course_id": "grammar-for-command-line-languages",
+      "title": "Grammar for Command-line Languages",
+      "description": "Learn the basic rules of grammar common to almost all command-line languages."
     }
   ]
 }
