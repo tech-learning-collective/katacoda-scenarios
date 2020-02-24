@@ -1,0 +1,2 @@
+# Populate `apropos` results.
+mandb

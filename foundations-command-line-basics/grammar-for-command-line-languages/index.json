@@ -2,11 +2,12 @@
     "title": "Grammar for Command-Line Languages",
     "description": "Learn the basic rules of grammar common to almost all command-line languages.",
     "difficulty": "beginner",
-    "time": "~35 minutes",
+    "time": "~45 minutes",
     "details": {
         "intro": {
             "text": "intro.md",
-            "credits": "Created by and for [Tech Learning Collective](https://techlearningcollective.com/)."
+            "credits": "Created by and for [Tech Learning Collective](https://techlearningcollective.com/).",
+            "courseData": "intro.sh"
         },
         "steps": [
             {
@@ -19,16 +20,24 @@
             },
             {
                 "title": "Explicit versus implicit objects",
-                "text": "step3.md"
+                "text": "step3.md",
+                "courseData": "step3.sh"
             },
             {
-                "title": "Anatomy of a shell command grammar",
-                "text": "step4.md",
-                "courseData": "step4.sh"
+                "title": "Anatomy of shell command grammar",
+                "text": "step4.md"
             },
             {
                 "title": "How to read a command synopsis in help output",
                 "text": "step5.md"
+            },
+            {
+                "title": "Using the online manual",
+                "text": "step6.md"
+            },
+            {
+                "title": "Finding more commands",
+                "text": "step7.md"
             }
         ],
         "finish": {

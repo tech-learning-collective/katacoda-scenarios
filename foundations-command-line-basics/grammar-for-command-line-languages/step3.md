@@ -18,17 +18,17 @@ Like the `help` command, the `ls` command doesn&rsquo;t need any additional word
     touch
     ```{{execute}}
 
-Unlike the `help` or `ls` commands, the `touch` command requires an explicit object (or a [&ldquo;direct object&rdquo;](https://en.wikipedia.org/wiki/Object_%28grammar%29#Types) to use a linguist&rsquo;s terminology). If you don&rsquo;t tell the command what file to create explicitly, it will not know which file you want to make, and it will therefore fail to make any files.
+Unlike the `help` or `ls` commands, the `touch` command requires an explicit object (or a [&ldquo;direct object&rdquo;](https://en.wikipedia.org/wiki/Object_%28grammar%29#Types) to use the linguist&rsquo;s term). If you don&rsquo;t tell the command what file to create explicitly, it will not know which file you want to make, and it will therefore fail to make any files.
 
 Instead of doing what you told it to, it came back with an *error*. Errors are the computer&rsquo;s way of telling you about a problem it encountered. Problems can arise even if you don&rsquo;t do anything wrong, but in this case the problem is that you didn&rsquo;t specify what file you wanted to make.
 
-The computer&rsquo;s phrasing for this might not seem intuitive at first. It says, &ldquo;`missing file operand`&rdquo; rather than something more human-sounding, such as &ldquo;What file do you want me to make?&rsquo; but over time you&rsquo;ll probably come to appreciate the compactness of the computer&rsquo;s responses.
+The computer&rsquo;s phrasing for this might not seem intuitive at first. It says, &ldquo;`missing file operand`&rdquo; rather than something more human-sounding, such as &ldquo;What file do you want me to make?&rdquo; but over time you&rsquo;ll probably come to appreciate the compactness of the computer&rsquo;s responses.
 
 Let&rsquo;s help the computer out by specifying the name of the file we&rsquo;d like to be created. We do this by adding a second word to our `touch` command line:
 
 **Do this** in the command line interface of this practice lab:
 
-1. Enter the `touch` command again, but this time provide a name for a new file as the second word to the command. The file name must not contain any spaces, or else the Bash interpreter will think you want to create two files instead of one:
+1. Enter the `touch` command again, but this time provide a name for a new file as the second word to the command. The file name must not contain any spaces, or else the computer will think you want to create two files instead of one:
     ```sh
     touch my-new-file
     ```{{execute}}
