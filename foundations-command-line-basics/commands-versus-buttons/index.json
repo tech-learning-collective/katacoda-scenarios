@@ -10,12 +10,16 @@
         },
         "steps": [
             {
-                "title": "What is a command line?",
+                "title": "An example Command Line Interface",
                 "text": "step1.md"
             },
             {
-                "title": "",
+                "title": "Getting to your own computer's command line",
                 "text": "step2.md"
+            },
+            {
+                "title": "Understanding the command line paradigm",
+                "text": "step3.md"
             }
         ],
         "finish": {
