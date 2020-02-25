@@ -24,7 +24,7 @@ Instead of doing what you told it to, it came back with an *error*. Errors are t
 
 The computer&rsquo;s phrasing for this might not seem intuitive at first. It says, &ldquo;`missing file operand`&rdquo; rather than something more human-sounding, such as &ldquo;What file do you want me to make?&rdquo; but over time you&rsquo;ll probably come to appreciate the compactness of the computer&rsquo;s responses.
 
-Let&rsquo;s help the computer out by specifying the name of the file we&rsquo;d like to be created. We do this by adding a second word to our `touch` command line:
+Let&rsquo;s help the computer out by specifying the name of the file we&rsquo;d like to be created. We do this by adding a second word to our `touch` command line.
 
 **Do this** in the command line interface of this practice lab:
 
