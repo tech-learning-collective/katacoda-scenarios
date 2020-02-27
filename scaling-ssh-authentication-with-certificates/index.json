@@ -1,0 +1,42 @@
+{
+    "title": "Scaling SSH Authentication with Certificates",
+    "description": "Creating and using SSH certificates for host authentication.",
+    "difficulty": "Intermediate",
+    "time": "~15 minutes",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "credits": "Created by and for [Tech Learning Collective](https://techlearningcollective.com/)."
+        },
+        "steps": [
+            {
+                "title": "Step 1: Create a Server Certificate Signing Keypair",
+                "text": "step1.md",
+                "verify": "step1-verify.sh"
+            },
+            {
+                "title": "Step 2: Generate an SSH Host Certificate and Configure the SSH server",
+                "text": "step2.md",
+                "verify": "step2-verify.sh"
+            },
+            {
+                "title": "Step 3: Configure Your SSH client to Validate SSH Host Certificates",
+                "text": "step3.md",
+                "verify": "step3-verify.sh"
+            },
+            {
+                "title": "Step 4: Testing Your SSH Connections",
+                "text": "step4.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "uilayout": "terminal"
+    },
+    "backend": {
+        "imageid": "ubuntu1804"
+    }
+}

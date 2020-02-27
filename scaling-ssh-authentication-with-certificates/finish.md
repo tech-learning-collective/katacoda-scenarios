@@ -1,0 +1,1 @@
+This scenario demonstrates the bare minimum configuration needed to ensure an SSH host certificate is offered to connecting clients as well as how to configure an OpenSSH command-line client to trust a given SSH Certificate Authority's public signing key to accept host certificates signed by that key.
