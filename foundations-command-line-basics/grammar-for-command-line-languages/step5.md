@@ -8,7 +8,7 @@ If you took a really close read of the beginning of the `help` command&rsquo;s o
 Type `help name' to find out more about the function `name'.
 ```
 
-This part of Bash&rsquo;s reply when you type `help` means that you can supply an argument (shown here as `name`) to get the `help` command to change its output to more specific help about a given command. The list of commands that you can get `help` about is shown below. Try some of these if you have&rsquo;t already to see more help about the commands in the list.
+This part of Bash&rsquo;s reply when you type `help` means that you can supply an argument (shown here as `name`) to get the `help` command to change its output to more specific help about a given command. The list of commands that you can get `help` about is shown below. Try some of these if you haven&rsquo;t already to see more help about the commands in the list.
 
 For example:
 
