@@ -1,0 +1,53 @@
+{
+    "title": "Processes",
+    "description": "Learn about the running processes on the system.",
+    "difficulty": "beginner",
+    "time": "~25 minutes",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "credits": "Created by [LinuxJourney.com](https://linuxjourney.com/) and adapted by [Tech Learning Collective](https://techlearningcollective.com/)."
+        },
+        "steps": [
+            {
+                "text": "step1.md"
+            },
+            {
+                "text": "step2.md"
+            },
+            {
+                "text": "step3.md"
+            },
+            {
+                "text": "step4.md"
+            },
+            {
+                "text": "step5.md"
+            },
+            {
+                "text": "step6.md"
+            },
+            {
+                "text": "step7.md"
+            },
+            {
+                "text": "step8.md"
+            },
+            {
+                "text": "step9.md"
+            },
+            {
+                "text": "step10.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "uilayout": "terminal"
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}

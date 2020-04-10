@@ -1,0 +1,116 @@
+{
+  "title": "Linux Journey",
+  "description": "Learn the ways of Linux-fu, for free.",
+  "courses": [
+    {
+        "course_id": "linux-history",
+        "title": "Getting Started",
+        "description": "What is Linux? Get started with choosing a distribution and installation."
+    },
+    {
+        "course_id": "the-shell",
+        "title": "Command Line",
+        "description": "Learn the fundamentals of the command line, navigating files, directories and more."
+    },
+    {
+        "course_id": "stdout-standard-out-redirect",
+        "title": "Text-Fu",
+        "description": "Learn basic text manipulation and navigation."
+    },
+    {
+        "course_id": "regular-expressions-regex",
+        "title": "Advanced Text-Fu",
+        "description": "Navigate text like a Linux spider monkey with vim and emacs."
+    },
+    {
+        "course_id": "users-and-groups",
+        "title": "User Management",
+        "description": "Learn about user roles and management."
+    },
+    {
+        "course_id": "file-permissions",
+        "title": "Permissions",
+        "description": "Learn about permission levels and modifying permissions."
+    },
+    {
+        "course_id": "monitor-processes-ps-command",
+        "title": "Processes",
+        "description": "Learn about the running processes on the system."
+    },
+    {
+        "course_id": "software-distribution",
+        "title": "Packages",
+        "description": "Learn all about the dpkg, apt-get, rpm and yum package management tools."
+    },
+    {
+        "course_id": "dev-directory",
+        "title": "Devices",
+        "description": "Learn about Linux devices and how they interact with the kernel and user space."
+    },
+    {
+        "course_id": "filesystem-hierarchy",
+        "title": "The Filesystem",
+        "description": "Learn about the Linux filesystem, the different types of filesystems, partitioning and more."
+    },
+    {
+        "course_id": "boot-process-overview",
+        "title": "Boot the System",
+        "description": "Learn about the stages of the Linux boot process."
+    },
+    {
+        "course_id": "kernel-overview",
+        "title": "Kernel",
+        "description": "The most important part of the Linux system, learn about how it works and how to configure it."
+    },
+    {
+        "course_id": "sysv-overview",
+        "title": "Init",
+        "description": "Learn about the different init systems, SysV, Upstart and systemd."
+    },
+    {
+        "course_id": "tracking-processes-top",
+        "title": "Process Utilization",
+        "description": "Learn resource monitoring with top, load averages, iostat and more!"
+    },
+    {
+        "course_id": "system-logging",
+        "title": "Logging",
+        "description": "Learn about system logs and the /var/log directory."
+    },
+    {
+        "course_id": "network-file-sharing",
+        "title": "Network Sharing",
+        "description": "Learn about network sharing with rsync, scp, nfs and more."
+    },
+    {
+        "course_id": "network-basics",
+        "title": "Network Basics",
+        "description": "Learn about networking basics and the TCP/IP model."
+    },
+    {
+        "course_id": "ipv4",
+        "title": "Subnetting",
+        "description": "Learn about subnets and how to do subnet arithmetic!"
+    },
+    {
+        "course_id": "what-is-a-router",
+        "title": "Routing",
+        "description": "Learn how packets are routed across networks!"
+    },
+    {
+        "course_id": "network-interfaces",
+        "title": "Network Config",
+        "description": "Learn about network configuration using Linux tools!"
+    },
+    {
+        "course_id": "icmp",
+        "title": "Troubleshooting",
+        "description": "Learn about common networking tools to help you diagnose and troubleshoot issues!"
+    },
+    {
+        "course_id": "what-is-dns",
+        "title": "DNS",
+        "description": "Everything and more that you wanted to know about DNS."
+    }
+  ]
+}
