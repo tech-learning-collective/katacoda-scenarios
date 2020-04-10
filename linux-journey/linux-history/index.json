@@ -12,6 +12,42 @@
             {
                 "title": "GNU/Linux History",
                 "text": "step1.md"
+            },
+            {
+                "title": "Choosing a GNU/Linux Distribution",
+                "text": "step2.md"
+            },
+            {
+                "title": "Debian",
+                "text": "step3.md"
+            },
+            {
+                "title": "Red Hat Enterprise Linux",
+                "text": "step4.md"
+            },
+            {
+                "title": "Ubuntu",
+                "text": "step5.md"
+            },
+            {
+                "title": "Fedora",
+                "text": "step6.md"
+            },
+            {
+                "title": "Linux Mint",
+                "text": "step7.md"
+            },
+            {
+                "title": "Gentoo",
+                "text": "step8.md"
+            },
+            {
+                "title": "Arch Linux",
+                "text": "step9.md"
+            },
+            {
+                "title": "openSUSE",
+                "text": "step10.md"
             }
         ],
         "finish": {
