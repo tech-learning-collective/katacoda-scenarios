@@ -1,5 +1,3 @@
-# History
-
 Hey rookie! So you decided to dive into this wonderful world known as Linux? Well you better strap in, because it’s gonna be a long and hard road. My name is Penguin Pete and I’m here to guide you through this journey. Let’s get started with a little bit of backstory about Linux.
 
 To learn about how Linux came to be, let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system.
@@ -12,7 +10,7 @@ During this time other efforts such as BSD, MINIX, etc were developed to be UNIX
 
 Then in 1991, a young fellow named Linus Torvalds started developing what we now know today as the Linux kernel.
 
-## Exercise
+# Exercise
 
 Additional reading:
 
@@ -21,7 +19,7 @@ Additional reading:
 * [Richard Stallman](https://stallman.org/)
 * [Linux Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
-## Quiz
+# Quiz
 
 >>Q1: Who developed the Linux kernel?<<
 === Linus Torvalds
