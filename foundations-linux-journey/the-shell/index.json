@@ -10,34 +10,80 @@
         },
         "steps": [
             {
+                "title": "The Shell",
                 "text": "step1.md"
             },
             {
+                "title": "pwd (Print Working Directory)",
                 "text": "step2.md"
             },
             {
+                "title": "cd (Change Directory)",
                 "text": "step3.md"
             },
             {
+                "title": "ls (List Directories)",
                 "text": "step4.md"
             },
             {
+                "title": "touch",
                 "text": "step5.md"
             },
             {
+                "title": "file",
                 "text": "step6.md"
             },
             {
+                "title": "cat",
                 "text": "step7.md"
             },
             {
+                "title": "less",
                 "text": "step8.md"
             },
             {
+                "title": "history",
                 "text": "step9.md"
             },
             {
+                "title": "cp (Copy)",
                 "text": "step10.md"
+            },
+            {
+                "title": "mv (Move)",
+                "text": "step11.md"
+            },
+            {
+                "title": "mkdir (Make Directory)",
+                "text": "step12.md"
+            },
+            {
+                "title": "rm (Remove)",
+                "text": "step13.md"
+            },
+            {
+                "title": "find",
+                "text": "step14.md"
+            },
+            {
+                "title": "help",
+                "text": "step15.md"
+            },
+            {
+                "title": "man",
+                "text": "step16.md"
+            },
+            {
+                "title": "whatis",
+                "text": "step17.md"
+            },
+            {
+                "title": "alias",
+                "text": "step18.md"
+            },
+            {
+                "title": "exit",
+                "text": "step19.md"
             }
         ],
         "finish": {
