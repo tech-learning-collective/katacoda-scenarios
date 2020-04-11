@@ -10,34 +10,68 @@
         },
         "steps": [
             {
+                "title": "stdout (Standard Out)",
                 "text": "step1.md"
             },
             {
+                "title": "stdin (Standard In)",
                 "text": "step2.md"
             },
             {
+                "title": "stderr (Standard Error)",
                 "text": "step3.md"
             },
             {
+                "title": "pipe and tee",
                 "text": "step4.md"
             },
             {
+                "title": "env (Environment)",
                 "text": "step5.md"
             },
             {
+                "title": "cut",
                 "text": "step6.md"
             },
             {
+                "title": "paste",
                 "text": "step7.md"
             },
             {
+                "title": "head",
                 "text": "step8.md"
             },
             {
+                "title": "tail",
                 "text": "step9.md"
             },
             {
+                "title": "expand and unexpand",
                 "text": "step10.md"
+            },
+            {
+                "title": "join and split",
+                "text": "step11.md"
+            },
+            {
+                "title": "sort",
+                "text": "step12.md"
+            },
+            {
+                "title": "tr (Translate)",
+                "text": "step13.md"
+            },
+            {
+                "title": "uniq (Unique)",
+                "text": "step14.md"
+            },
+            {
+                "title": "wc and nl",
+                "text": "step15.md"
+            },
+            {
+                "title": "grep",
+                "text": "step16.md"
             }
         ],
         "finish": {
