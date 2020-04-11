@@ -10,34 +10,28 @@
         },
         "steps": [
             {
+                "title": "Users and Groups",
                 "text": "step1.md"
             },
             {
+                "title": "root",
                 "text": "step2.md"
             },
             {
+                "title": "/etc/passwd",
                 "text": "step3.md"
             },
             {
+                "title": "/etc/shadow",
                 "text": "step4.md"
             },
             {
+                "title": "/etc/group",
                 "text": "step5.md"
             },
             {
+                "title": "User Management Tools",
                 "text": "step6.md"
-            },
-            {
-                "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
