@@ -10,34 +10,56 @@
         },
         "steps": [
             {
+                "title": "regex (Regular Expressions)",
                 "text": "step1.md"
             },
             {
+                "title": "Text Editors",
                 "text": "step2.md"
             },
             {
+                "title": "Vim (Vi Improved)",
                 "text": "step3.md"
             },
             {
+                "title": "Vim Search Pattersn",
                 "text": "step4.md"
             },
             {
+                "title": "Vim Navigation",
                 "text": "step5.md"
             },
             {
+                "title": "Vim Appending Text",
                 "text": "step6.md"
             },
             {
+                "title": "Vim Editing",
                 "text": "step7.md"
             },
             {
+                "title": "Vim Saving and Exiting",
                 "text": "step8.md"
             },
             {
+                "title": "Emacs",
                 "text": "step9.md"
             },
             {
+                "title": "Emacs Manipulate Files",
                 "text": "step10.md"
+            },
+            {
+                "title": "Emacs Buffer Navigation",
+                "text": "step11.md"
+            },
+            {
+                "title": "Emacs Editing",
+                "text": "step12.md"
+            },
+            {
+                "title": "Emacs Exiting and Help",
+                "text": "step13.md"
             }
         ],
         "finish": {
