@@ -1,8 +1,3 @@
-
-# cut
-
-## Lesson Content
-
 We're gonna learn a couple of useful commands that you can use to process text. Before we get started, let's create a file that we'll be working with. Copy and paste the following command, once you do that add a TAB in between lazy and dog (hold down Ctrl-v + TAB).
 
 <pre>$ echo 'The quick brown; fox jumps over the lazy  dog' > sample.txt</pre>
@@ -27,7 +22,7 @@ You can combine the field flag with the delimiter flag to extract the contents b
 
 This will change the TAB delimiter to a ";" delimiter and since we are cutting the first field, the result should be "The quick brown".
 
-## Exercise
+# Exercise
 
 What does the following command do? Why?
 
@@ -36,10 +31,5 @@ $ cut -c 5- sample.txt
 $ cut -c -5 sample.txt
 </pre>
 
-## Quiz Question
-
-What command would you use to get the first character of every line in a file?
-
-## Quiz Answer
-
-cut -c 1
+>>Q1: What command would you use to get the first character of every line in a file?<<
+=== cut -c 1

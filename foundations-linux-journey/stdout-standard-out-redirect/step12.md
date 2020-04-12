@@ -1,8 +1,3 @@
-
-# sort
-
-## Lesson Content
-
 The sort command is useful for sorting lines.
 
 <pre>
@@ -41,16 +36,13 @@ elephant
 dog
 </pre>
 
-## Exercise
+# Exercise
 
 The real power of sort comes with its ability to be combined with other commands, try the following command and see what happens?
 
-<pre>$ ls /etc | sort -rn</pre>
+```
+ls /etc | sort -rn
+```{{execute}}
 
-## Quiz Question
-
-What flag do you use to do a reverse sort?
-
-## Quiz Answer
-
--r
+>>Q1: What flag do you use to do a reverse sort?<<
+=== -r
