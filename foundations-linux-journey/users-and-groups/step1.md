@@ -6,7 +6,7 @@ The system uses user ids (UID) to manage users, usernames are the friendly way t
 
 In Linux, you'll have users in addition to the normal humans that use the system. Sometimes these users are system daemons that continuously run processes to keep the system functioning. One of the most important users is root or superuser, root is the most powerful user on the system, root can access any file and start and terminate any process. For that reason, it can be dangerous to operate as root all the time, you could potentially remove system critical files. Luckily, if root access is needed and a user has root access, they can run a command as root instead with the sudo command. The sudo command (superuser do) is used to run a command with root access, we'll go more in depth on how a user receives root access in a later lesson.
 
-Go ahead and try to view a protected file like /etc/shadow:
+Go ahead and try to view a protected file like `/etc/shadow`:
 
 ```
 cat /etc/shadow
