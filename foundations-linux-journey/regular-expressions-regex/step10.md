@@ -1,36 +1,22 @@
+In a lot (if not all) of Emacs documentation, you will see the syntax `C-[letter]`. This just means hit the <kbd>CTRL</kbd> key and the letter indicated, but for shorthand purposes, we'll write "CTRL" more succinctly, with just `C`. If you see syntax such as `M-[letter]`, that means use the "Meta" key on your keyboard, which is most commonly the <kbd>Alt</kbd> key.
 
-# Emacs Manipulate Files
+# Saving files
 
-## Lesson Content
-
-In a lot (if not all) of Emacs documentation, you will see the syntax C-[letter]. This just means hit the Ctrl-letter, but for shorthand purposes, we'll call Ctrl with C. If you see syntax such as M-[letter], that means use the Meta key, most commonly the Alt key.
-
-<b>Saving files</b>
-
-<pre>
-C-x C-s - Save a file
-C-x C-w - Save file as
-C-x s - Save all
-</pre>
+* <kbd>C-x C-s</kbd> - Save a file
+* <kbd>C-x C-w</kbd> - Save file as
+* <kbd>C-x s</kbd> - Save all
 
 The save file options will prompt you if you want to save each file.
 
-<b>Opening a file</b>
+# Opening a file
 
-<pre>
-C-x C-f
-</pre>
+<kbd>C-x C-f</kbd>
 
 This will prompt you to type a filename to open. If you do not have a file that already exists, it will create a new file. You can load up a directory as well.
 
-## Exercise
+# Exercise
 
 Play around with opening files and saving files.
 
-## Quiz Question
-
-What command is used to open a file?
-
-## Quiz Answer
-
-C-x C-f
+>>Q1: What command is used to open a file?<<
+=== C-x C-f

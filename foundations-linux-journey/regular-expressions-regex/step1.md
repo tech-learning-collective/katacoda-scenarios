@@ -1,82 +1,80 @@
-
-# regex (Regular Expressions)
-
-## Lesson Content
-
-Regular expressions are a powerful tool to do pattern based selection. It uses special notations similar to those we've encountered already such as the * wildcard. 
+*Regular expressions* are a powerful tool to do pattern based selection. It uses special notations similar to those we've encountered already such as the `*` wildcard. 
 
 We'll go through a couple of the most common regular expressions, these are almost universal with any programming language.
 
 Well use this phrase as our test string:
-<pre>
+
+```
 sally sells seashells 
 by the seashore
-</pre>
+```
 
-<b>1. Beginning of a line with ^</b>
+# 1. Beginning of a line with `^`
 
-<pre>
-<b>^</b>by
-would match the line "by the seashore"
-</pre>
+```
+^by
+```
 
-<b>2. End of a line with $</b>
+would match the line "`by the seashore`" because that line begins with (`^`) the text `by`.
 
-<pre>
-seashore<b>$</b>
-would match the line "by the seashore"
-</pre>
+# 2. End of a line with `$`
 
-<b>3. Matching any single character with .</b>
+```
+seashore$
+```
 
-<pre>
-b<b>.</b>
-would match by
-</pre>
+would match the line "`by the seashore`" because that line ends with (`$`) the text `seashore`.
 
-<b>4. Bracket notation with [] and ()</b>
+# 3. Matching any single character with `.`
+
+```
+b.
+```
+
+would match `by` because `y` is a character that would be matched by `.` and `b` comes immediately before that character in the input string.
+
+# 4. Bracket notation with `[]` and `()`
 
 This can be a little tricky, brackets allow us to specify characters found within the bracket. 
 
-<pre>
-d<b>[iou]</b>g
-would match: dig, dog, dug
-</pre>
+```
+d[iou]g
+```
+would match: `dig`, `dog`, and `dug`.
 
-The previous anchor tag ^ when used in a bracket means anything except the characters within the bracket. 
+The previous anchor tag `^` when used in a bracket means anything except the characters within the bracket. In other words, it negates the match.
 
-<pre>
-d<b>[^i]</b>g
-would match: dog and dug but not dig
-</pre>
+```
+d[^i]g
+```
+
+would match: `dog` and `dug`, but *not* `dig`.
 
 Brackets can also use ranges to increase the amount of characters you want to use. 
 
-<pre>
-d<b>[a-c]</b>g
-will match patterns like dag, dbg, and dcg
-</pre>
+```
+d[a-c]g
+```
 
-Be careful though as brackets are case sensitive:
+will match patterns like `dag`, `dbg`, and `dcg`, because `a-c` is a range of characters between `a` and `c`, inclusive.
 
-<pre>
-d<b>[A-C]</b>g
-will match dAg, dBg and dCg but not dag, dbg and dcg
-</pre>
+Be careful though, as character ranges in brackets are case sensitive:
+
+```
+d[A-C]g
+```
+
+will match `dAg`, `dBg` and `dCg`, but *not* `dag`, `dbg` or `dcg`.
 
 And those are some basic regular expressions.
 
-## Exercise
+# Exercise
 
-Try to combine regular expressions with grep and search through some files.
+Try to combine regular expressions with `grep` and search through some files.
 
-<pre>
+```
 grep [regular expression here] [file]
+```
 
-## Quiz Question
-
-What regular expression would you use to match a single character?
-
-## Quiz Answer
-
-.
+>>Q1: What regular expression would you use to match a single character?<<
+=== .
