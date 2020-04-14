@@ -1,0 +1,60 @@
+{
+    "title": "Enchantment in the Command Line: A Ritual Casting",
+    "description": "This is a ritual for people who want to understand their computer better, and use it in a more fulfilling way. It is designed to enchant your computer (and you) through the use of the terminal.",
+    "difficulty": "beginner",
+    "time": "~25 minutes",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "credits": "Created by [Zach](https://coolguy.website/) for the [Solarpunk Magic Computer Club](https://solarpunk.cool/). Adapted and republished with permission by [Tech Learning Collective](https://techlearningcollective.com/).",
+            "courseData": "background.sh"
+        },
+        "steps": [
+            {
+                "title": "The Space",
+                "text": "step1.md"
+            },
+            {
+                "title": "The Magic Circle",
+                "text": "step2.md"
+            },
+            {
+                "title": "Introduction to the (Solarpunk) Ritual",
+                "text": "step3.md"
+            },
+            {
+                "title": "The Ritual Chant",
+                "text": "step4.md"
+            },
+            {
+                "title": "The Digital Ritual Space",
+                "text": "step5.md"
+            },
+            {
+                "title": "The Ritual Code",
+                "text": "step6.md"
+            },
+            {
+                "title": "Joining in the Chant",
+                "text": "step7.md"
+            },
+            {
+                "title": "Help at the Ready",
+                "text": "step8.md"
+            },
+            {
+                "title": "Grounding",
+                "text": "step9.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "uilayout": "terminal"
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}

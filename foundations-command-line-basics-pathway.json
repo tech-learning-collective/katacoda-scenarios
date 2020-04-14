@@ -3,6 +3,11 @@
   "description": "Learn the basics of using a terminal or command line.",
   "courses": [
     {
+        "course_id": "enchantment-in-the-command-line",
+        "title": "Enchantment in the Command Line",
+        "description": "This is a magic ritual developed for people who want to understand their computer better, and use it in a more fulfilling way. It is designed to enchant your computer (and you) through the use of the terminal."
+    },
+    {
       "course_id": "commands-versus-buttons",
       "title": "Commands versus Buttons",
       "description": "Understand the \"command\" paradigm as opposed to the \"buttons\" paradigm of using your computer."
