@@ -1,4 +1,4 @@
-Hey rookie! So you decided to dive into this wonderful world known as Linux? Well you better strap in, because it’s gonna be a long and hard road. My name is Penguin Pete and I’m here to guide you through this journey. Let’s get started with a little bit of backstory about Linux.
+Hey, rookie! So you decided to dive into this wonderful world known as Linux? Well you better strap in, because it’s gonna be a long and hard road. My name is Penguin Pete and I’m here to guide you through this journey. Let’s get started with a little bit of backstory about Linux.
 
 To learn about how Linux came to be, let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system.
 

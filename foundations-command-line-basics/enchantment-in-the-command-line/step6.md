@@ -14,11 +14,11 @@ You can add some accented speech to your commands, nuance that changes exactly w
 
 The `-a` means, essentially &ldquo;list all&rdquo;, including the secret scripts and directories made intentionally invisible. With three letters and a dash you now know how to make the hidden things show themselves. But let's go even further, and look at what is invoked when the computer first turns on.
 
-Type `cat /etc/rc0.d/K07networking` but don't hit enter. `cat` asks the terminal to display all that is in a script or file on the terminal screen. You make this file speak to you, in a way. And so with the command you typed, you are asking the script `rc.common`, in the `etc` directory, to please speak up and tell you about itself.
+Type `cat /etc/rc0.d/K07networking` but don't hit enter. `cat` asks the terminal to display all that is in a script or file on the terminal screen. You make this file speak to you, in a way. And so with the command you typed, you are asking the script `K07networking`, in the `rc0.d` directory, which is itself in the `etc` directory, to please speak up and tell you about itself.
 
-Hit enter.
+Hit <kbd>enter</kbd>.
 
-This is entirety of the `K07networking` script, that runs when the computer boots up. It tells the computer what it is, and where things are, and how to build up all the things necessary to display itself.
+This is entirety of the `K07networking` script, one of the many that runs when the computer boots up. It tells the computer what it is, and where certain things are, and how to build up all the things necessary to display itself.
 
 But it's something else too, something familiar. Here we see different snippets of intentionally placed phrases, each one left by some human or procession of humans. As new technologies arose (like USB ports or the Internet), then new snippets were added to this script. Each one looks strange on its own but when they are run together, in their intentional order, the computer is given life.
 
