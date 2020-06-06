@@ -10,3 +10,6 @@ mkdir Music
 mkdir Pictures
 mkdir Public
 mkdir Videos
+
+# Make some example files show up in the Desktop folder.
+touch Desktop/example-file-{1..5}.txt
