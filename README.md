@@ -79,3 +79,10 @@ To define a question, a single line of text is surrounded with the quiz instruct
 Each question must also provide an answer key. The answer key also serves to indicate what kind of question is being asked, either free-form or multiple choice. Free-form questions display a text input box to the user and ask them to type their answer. Multiple choice questions display a set of radio buttons or checkboxes and ask the user to select their answer from the provided options.
 
 For more information, see the [Quiz example in the Katacoda Scenario Examples repository](https://github.com/katacoda/scenario-examples/blob/master/quiz/step1.md).
+
+> :bulb: Use the [`katacodify.ex`](katacodify.ex) script to run an initial batch transformation of some common Markdown tutorial styles into the above format. For example:
+>
+> ```sh
+> # Automatically convert the formatting of both original files.
+> ex original-file-1.md original-file-2.md < katacodify.ex
+> ```

@@ -10,34 +10,36 @@
         },
         "steps": [
             {
+                "title": "File Permissions",
                 "text": "step1.md"
             },
             {
+                "title": "Modifying Permissions",
                 "text": "step2.md"
             },
             {
+                "title": "Ownership Permissions",
                 "text": "step3.md"
             },
             {
+                "title": "umask",
                 "text": "step4.md"
             },
             {
+                "title": "setuid",
                 "text": "step5.md"
             },
             {
+                "title": "setgid",
                 "text": "step6.md"
             },
             {
+                "title": "Process Permissions",
                 "text": "step7.md"
             },
             {
+                "title": "The Sticky Bit",
                 "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
