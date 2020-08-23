@@ -53,5 +53,5 @@ $ top
 
 Use the ps command with different flags and see how the output changes.
 
->>Q1: What ps flag is used to view detailed information about processes?<<<<<<
+>>Q1: What ps flag is used to view detailed information about processes?<<
 === u
