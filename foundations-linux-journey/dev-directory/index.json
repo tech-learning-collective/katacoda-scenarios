@@ -10,34 +10,32 @@
         },
         "steps": [
             {
+                "title": "/dev directory",
                 "text": "step1.md"
             },
             {
+                "title": "Device Types",
                 "text": "step2.md"
             },
             {
+                "title": "Device Names",
                 "text": "step3.md"
             },
             {
+                "title": "sysfs",
                 "text": "step4.md"
             },
             {
+                "title": "udev",
                 "text": "step5.md"
             },
             {
+                "title": "Listing Devices (lsusb, lspci, lssci)",
                 "text": "step6.md"
             },
             {
+                "title": "dd",
                 "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
