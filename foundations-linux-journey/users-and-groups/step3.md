@@ -28,5 +28,5 @@ Also should note that you can edit the `/etc/passwd` file by hand if you want to
 
 Look at your `/etc/passwd` file, take a look at some of the users and note the access they have. 
 
->>Q1: If a user doesn't have login access how is that denoted in `/etc/passwd`?
+>>Q1: If a user doesn't have login access how is that denoted in `/etc/passwd`?<<
 === *
