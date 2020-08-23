@@ -10,34 +10,32 @@
         },
         "steps": [
             {
+                "title": "Software Distribution",
                 "text": "step1.md"
             },
             {
+                "title": "Package Repositories",
                 "text": "step2.md"
             },
             {
+                "title": "tar and gzip",
                 "text": "step3.md"
             },
             {
+                "title": "Package Dependencies",
                 "text": "step4.md"
             },
             {
+                "title": "rpm and dpkg",
                 "text": "step5.md"
             },
             {
+                "title": "yum and apt",
                 "text": "step6.md"
             },
             {
+                "title": "Compile Source Code",
                 "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {

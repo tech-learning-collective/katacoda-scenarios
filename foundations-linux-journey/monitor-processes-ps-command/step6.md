@@ -33,9 +33,5 @@ Numbers can vary with signals so they are usually referred by their names.
 
 Some signals are unblockable, one example is the SIGKILL signal. The KILL signal destroys the process.
 
-## Exercise
-
-No exercises for this lesson.
-
 >>Q1: What signal is unblockable?<<
 === SIGKILL

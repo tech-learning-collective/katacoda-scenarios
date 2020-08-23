@@ -12,9 +12,5 @@ The kernel is in charge of processes, when we run a program the kernel loads up 
 
 All processes are trying to get a taste of that sweet resource pie, it's the kernel's job to make sure that processes get the right amount of resources depending on process demands. When a process ends, the resources it used are now freed up for other processes.
 
-## Exercise
-
-No exercises for this lesson.
-
 >>Q1: What manages and controls processes?<<
 === kernel

@@ -18,9 +18,5 @@ $ sudo chmod 2555 myfile
 
 The numerical representation for SGID is 2.
 
-## Exercise
-
-No exercises for this lesson.
-
 >>Q1: What number represents the SGID?<<
 === 2

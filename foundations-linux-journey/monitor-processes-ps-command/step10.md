@@ -14,9 +14,5 @@ $ cat /proc/12345/status
 
 You should see process state information and well as more detailed information. The /proc directory is how the kernel is views the system, so there is a lot more information here than what you would see in ps.
 
-## Exercise
-
-No exercises for this lesson.
-
 >>Q1: What filesystem stores process information?<<
 === /proc
