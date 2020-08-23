@@ -10,34 +10,48 @@
         },
         "steps": [
             {
+                "title": "ps (Processes)",
                 "text": "step1.md"
             },
             {
+                "title": "Controlling Terminal",
                 "text": "step2.md"
             },
             {
+                "title": "Process Details",
                 "text": "step3.md"
             },
             {
+                "title": "Process Creation",
                 "text": "step4.md"
             },
             {
+                "title": "Process Termination",
                 "text": "step5.md"
             },
             {
+                "title": "Signals",
                 "text": "step6.md"
             },
             {
+                "title": "kill (Terminate)",
                 "text": "step7.md"
             },
             {
+                "title": "niceness",
                 "text": "step8.md"
             },
             {
+                "title": "Process States",
                 "text": "step9.md"
             },
             {
+                "title": "/proc Filesystem",
                 "text": "step10.md"
+            },
+            {
+                "title": "Job Control",
+                "text": "step11.md"
             }
         ],
         "finish": {

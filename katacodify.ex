@@ -7,7 +7,7 @@
 :%s/<\/pre>/\r```/
 
 " Markdownify lists.
-:%s/<ul>\r\|\r<\/ul>//
+:%s/<ul>\n\|\n<\/ul>//
 :%s/<\/li>//
 :%s/<li>/* /
 

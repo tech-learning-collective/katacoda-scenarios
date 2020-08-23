@@ -83,6 +83,6 @@ For more information, see the [Quiz example in the Katacoda Scenario Examples re
 > :bulb: Use the [`katacodify.ex`](katacodify.ex) script to run an initial batch transformation of some common Markdown tutorial styles into the above format. For example:
 >
 > ```sh
-> # Automatically convert the formatting of both original files.
-> ex original-file-1.md original-file-2.md < katacodify.ex
+> # Automatically convert the formatting of all Markdown files in the current directory.
+> for file in $(ls *.md); do ex "$file" < katacodify.ex; done;
 > ```
