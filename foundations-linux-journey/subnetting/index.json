@@ -10,34 +10,32 @@
         },
         "steps": [
             {
+                "title": "Internet Protocol version 4 (IPv4)",
                 "text": "step1.md"
             },
             {
+                "title": "Subnets",
                 "text": "step2.md"
             },
             {
+                "title": "Subnet Math",
                 "text": "step3.md"
             },
             {
+                "title": "Subnetting Cheats",
                 "text": "step4.md"
             },
             {
+                "title": "Classless Inter-Domain Routing (CIDR)",
                 "text": "step5.md"
             },
             {
+                "title": "Network Address Translation (NAT)",
                 "text": "step6.md"
             },
             {
+                "title": "Internet Protocol version 6 (IPv6)",
                 "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
