@@ -10,34 +10,24 @@
         },
         "steps": [
             {
+                "title": "File Sharing Overview",
                 "text": "step1.md"
             },
             {
+                "title": "rsync",
                 "text": "step2.md"
             },
             {
+                "title": "Simple HTTP Server",
                 "text": "step3.md"
             },
             {
+                "title": "NFS",
                 "text": "step4.md"
             },
             {
+                "title": "Samba",
                 "text": "step5.md"
-            },
-            {
-                "text": "step6.md"
-            },
-            {
-                "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
