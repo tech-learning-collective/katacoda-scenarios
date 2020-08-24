@@ -10,34 +10,40 @@
         },
         "steps": [
             {
+                "title": "Network Basics",
                 "text": "step1.md"
             },
             {
+                "title": "OSI Model",
                 "text": "step2.md"
             },
             {
+                "title": "TCP/IP Model",
                 "text": "step3.md"
             },
             {
+                "title": "Network Addressing",
                 "text": "step4.md"
             },
             {
+                "title": "Application Layer",
                 "text": "step5.md"
             },
             {
+                "title": "Transport Layer",
                 "text": "step6.md"
             },
             {
+                "title": "Network Layer",
                 "text": "step7.md"
             },
             {
+                "title": "Link Layer",
                 "text": "step8.md"
             },
             {
+                "title": "DHCP Overview",
                 "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
