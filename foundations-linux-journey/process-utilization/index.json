@@ -10,34 +10,36 @@
         },
         "steps": [
             {
+                "title": "Tracking Processes: top",
                 "text": "step1.md"
             },
             {
+                "title": "lsof and fuser",
                 "text": "step2.md"
             },
             {
+                "title": "Process Threads",
                 "text": "step3.md"
             },
             {
+                "title": "CPU Monitoring",
                 "text": "step4.md"
             },
             {
+                "title": "I/O Monitoring",
                 "text": "step5.md"
             },
             {
+                "title": "Memory Monitoring",
                 "text": "step6.md"
             },
             {
+                "title": "Continuous Monitoring",
                 "text": "step7.md"
             },
             {
+                "title": "Cron Jobs",
                 "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
