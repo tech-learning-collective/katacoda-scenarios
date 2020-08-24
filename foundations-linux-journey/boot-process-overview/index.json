@@ -10,34 +10,24 @@
         },
         "steps": [
             {
+                "title": "Boot Process Overview",
                 "text": "step1.md"
             },
             {
+                "title": "Boot Process: BIOS",
                 "text": "step2.md"
             },
             {
+                "title": "Boot Process: Bootloader",
                 "text": "step3.md"
             },
             {
+                "title": "Boot Process: Kernel",
                 "text": "step4.md"
             },
             {
+                "title": "Boot Process: Init",
                 "text": "step5.md"
-            },
-            {
-                "text": "step6.md"
-            },
-            {
-                "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
