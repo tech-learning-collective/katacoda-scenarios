@@ -10,34 +10,28 @@
         },
         "steps": [
             {
+                "title": "System Logging",
                 "text": "step1.md"
             },
             {
+                "title": "syslog",
                 "text": "step2.md"
             },
             {
+                "title": "General Logging",
                 "text": "step3.md"
             },
             {
+                "title": "Kernel Logging",
                 "text": "step4.md"
             },
             {
+                "title": "Authentication Logging",
                 "text": "step5.md"
             },
             {
+                "title": "Managing Log Files",
                 "text": "step6.md"
-            },
-            {
-                "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
