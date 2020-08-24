@@ -10,34 +10,28 @@
         },
         "steps": [
             {
+                "title": "What is DNS?",
                 "text": "step1.md"
             },
             {
+                "title": "DNS Components",
                 "text": "step2.md"
             },
             {
+                "title": "DNS Process",
                 "text": "step3.md"
             },
             {
+                "title": "/etc/hosts",
                 "text": "step4.md"
             },
             {
+                "title": "DNS Setup",
                 "text": "step5.md"
             },
             {
+                "title": "DNS Tools",
                 "text": "step6.md"
-            },
-            {
-                "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
