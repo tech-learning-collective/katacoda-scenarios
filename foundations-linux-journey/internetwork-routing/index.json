@@ -10,34 +10,32 @@
         },
         "steps": [
             {
+                "title": "What is a router?",
                 "text": "step1.md"
             },
             {
+                "title": "Routing Table",
                 "text": "step2.md"
             },
             {
+                "title": "Path of a Packet",
                 "text": "step3.md"
             },
             {
+                "title": "Routing Protocols",
                 "text": "step4.md"
             },
             {
+                "title": "Distance Vector Protocols",
                 "text": "step5.md"
             },
             {
+                "title": "Link State Protocols",
                 "text": "step6.md"
             },
             {
+                "title": "Border Gateway Protocol (BGP)",
                 "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
