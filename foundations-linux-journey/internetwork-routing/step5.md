@@ -5,4 +5,5 @@ Distance vector protocols are great for small networks, when networks start to s
 One of the common distance vector protocols is RIP (Routing Information Protocol), it broadcasts the routing table to every router in the network every 30 seconds. For a large network, this can take some serious juice to pull off, because of that RIP limits it's hop count to 15.
 
 >>Q1: True or false, distance protocols use the route with the least amount of bandwidth?<<
-=== false
+( ) True
+(*) False

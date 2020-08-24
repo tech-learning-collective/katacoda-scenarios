@@ -33,4 +33,5 @@ But wait a minute, what if I want to connect to other hosts like yahoo.com? Then
 Use `ifconfig` to view your subnet mask.
 
 >>Q1: True or false, a subnet consists of a subnet mask and network prefix.<<
-=== True
+(*) True
+( ) False

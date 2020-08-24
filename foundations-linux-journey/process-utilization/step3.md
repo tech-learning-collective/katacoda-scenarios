@@ -23,5 +23,6 @@ The processes are denoted with each PID and underneath the processes are their t
 
 Run the **ps m** command and see what processes you have running are multi-threaded.
 
->>Q1: `True` or `False`? All processes start out single-threaded.<<
-=== True
+>>Q1: True or false, all processes start out single-threaded.<<
+(*) True
+( ) False
