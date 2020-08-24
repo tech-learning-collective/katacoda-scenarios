@@ -10,34 +10,52 @@
         },
         "steps": [
             {
+                "title": "Filesystem Hierarchy",
                 "text": "step1.md"
             },
             {
+                "title": "Filesystem Types",
                 "text": "step2.md"
             },
             {
+                "title": "Anatomy of a Disk",
                 "text": "step3.md"
             },
             {
+                "title": "Disk Partitioning",
                 "text": "step4.md"
             },
             {
+                "title": "Creating Filesystems",
                 "text": "step5.md"
             },
             {
+                "title": "Mounting and Unmounting Filesystems",
                 "text": "step6.md"
             },
             {
+                "title": "Filesystem Table (/etc/fstab)",
                 "text": "step7.md"
             },
             {
+                "title": "Swap Space",
                 "text": "step8.md"
             },
             {
+                "title": "Disk Usage",
                 "text": "step9.md"
             },
             {
+                "title": "Filesystem Repair",
                 "text": "step10.md"
+            },
+            {
+                "title": "Inodes",
+                "text": "step11.md"
+            },
+            {
+                "title": "Symbolic Links (symlinks)",
+                "text": "step12.md"
             }
         ],
         "finish": {
