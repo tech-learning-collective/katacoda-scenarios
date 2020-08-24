@@ -10,34 +10,28 @@
         },
         "steps": [
             {
+                "title": "Overview of the Kernel",
                 "text": "step1.md"
             },
             {
+                "title": "Privilege Levels",
                 "text": "step2.md"
             },
             {
+                "title": "System Calls",
                 "text": "step3.md"
             },
             {
+                "title": "Kernel Installation",
                 "text": "step4.md"
             },
             {
+                "title": "Kernel Location",
                 "text": "step5.md"
             },
             {
+                "title": "Kernel Modules",
                 "text": "step6.md"
-            },
-            {
-                "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
