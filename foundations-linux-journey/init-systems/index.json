@@ -1,6 +1,6 @@
 {
-    "title": "Init",
-    "description": "Learn about the different init systems, SysV, Upstart and systemd.",
+    "title": "Init Systems",
+    "description": "Learn about the different init (initialization) systems, SysV, Upstart and systemd.",
     "difficulty": "intermediate",
     "time": "~25 minutes",
     "details": {
@@ -10,34 +10,32 @@
         },
         "steps": [
             {
+                "title": "System V Overview",
                 "text": "step1.md"
             },
             {
+                "title": "System V Service",
                 "text": "step2.md"
             },
             {
+                "title": "Upstart Overview",
                 "text": "step3.md"
             },
             {
+                "title": "Upstart Jobs",
                 "text": "step4.md"
             },
             {
+                "title": "systemd Overview",
                 "text": "step5.md"
             },
             {
+                "title": "systemd Goals",
                 "text": "step6.md"
             },
             {
+                "title": "Power States",
                 "text": "step7.md"
-            },
-            {
-                "text": "step8.md"
-            },
-            {
-                "text": "step9.md"
-            },
-            {
-                "text": "step10.md"
             }
         ],
         "finish": {
