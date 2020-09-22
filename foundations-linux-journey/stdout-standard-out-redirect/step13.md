@@ -1,6 +1,7 @@
 The tr (translate) command allows you to translate a set of characters into another set of characters. Let's try an example of translating all lower case characters to uppercase characters. 
 
-```tr a-z A-Z
+```
+tr a-z A-Z
 hello
 ```{{execute}}
 

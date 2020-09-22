@@ -70,8 +70,12 @@
                 "text": "step15.md"
             },
             {
-                "title": "grep",
+                "title": "column, colrm, and awk",
                 "text": "step16.md"
+            },
+            {
+                "title": "grep",
+                "text": "step17.md"
             }
         ],
         "finish": {
