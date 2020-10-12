@@ -16,9 +16,9 @@ As such, it represented **Air**.
 
 # South; Fire
 
-In the South we placed a coiled up power cord. Coursing with electricity, the cord gives energy to our devices before we know what this energy should be used for. It is a wild, seductive, and creative power that holds as much danger as it does potential. As such,
+In the South we placed a coiled up power cord. Coursing with electricity, the cord gives energy to our devices before we know what this energy should be used for. It is a wild, seductive, and creative power that holds as much danger as it does potential.
 
-it represented **Fire**.
+As such, it represented **Fire**.
 
 # West; Water
 
