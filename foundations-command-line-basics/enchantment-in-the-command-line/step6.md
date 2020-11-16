@@ -6,13 +6,13 @@ Type `pwd`{{execute}} and hit <kbd>enter</kbd>. This stands for &ldquo;print wor
 
 The `cd` command lets you "change directories" and if you type `cd ..` it will take you one directory above.
 
-Type `cd ..`{{execute}} again and `ls`{{execute}} again.
+Type `cd ..`{{execute}}, hit <kbd>enter</kbd>, and then `ls`{{execute}} and hit <kbd>enter</kbd> again.
 
 Now we are in a place outside of 'users' or homes. These are the areas 'volumes' or 'mounts' live, the hardware ports that attach to your computer. And here are the folders containing the integral scripts that make your computer run. For fun, let's look at this area even more clearly.
 
 You can add some accented speech to your commands, nuance that changes exactly what you're asking. For example, type `ls -a`{{execute}}.
 
-The `-a` means, essentially &ldquo;list all&rdquo;, including the secret scripts and directories made intentionally invisible. With three letters and a dash you now know how to make the hidden things show themselves. But let's go even further, and look at what is invoked when the computer first turns on.
+The `-a` means, essentially &ldquo;list *all*,&rdquo; including the secret scripts and directories made intentionally invisible. With three letters and a dash you now know how to make the hidden things show themselves. But let's go even further, and look at what is invoked when the computer first turns on.
 
 Type `cat /etc/rc0.d/K07networking` but don't hit enter. `cat` asks the terminal to display all that is in a script or file on the terminal screen. You make this file speak to you, in a way. And so with the command you typed, you are asking the script `K07networking`, in the `rc0.d` directory, which is itself in the `etc` directory, to please speak up and tell you about itself.
 
