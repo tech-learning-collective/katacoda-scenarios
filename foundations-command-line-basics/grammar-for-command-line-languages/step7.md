@@ -14,7 +14,7 @@ For example, to search for commands appropriate for interacting with the Web, yo
 apropos web
 ```{{execute}}
 
-Look at that! One of the lines of output says that a command `www-browser` is available, which is a simple, text-based Web browser. You can probably guess how to load a Web page using this program using what you know about command line grammar, but you can always check your assumptions by looking up the man page for the command. Without the `apropos` command, you might not have discovered that this program was available to you.
+Look at that! One of the lines of output says that an executable named `www-browser` is available, which is a simple, text-based Web browser. You can probably guess how to load a Web page using this program with what you now know about command line grammar, but you can always check your assumptions by looking up the man page for the command. Without the `apropos` command, you might not have discovered that this program was available to you.
 
 Similarly, you could search for commands related to manipulating files by using `apropos file` and seeing what comes back. The `apropos` command is one of those commands you use a lot when you&rsquo;re just starting out. Over time, you may find yourself needing it less often as you get more familiar with the systems you&rsquo;re using, which is perfectly fine, too.
 

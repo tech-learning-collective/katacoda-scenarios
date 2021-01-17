@@ -13,9 +13,9 @@ This convention, called the [*Portable Operating System Interface* or *POSIX*](h
 * **Options** - Options, sometimes also called *switches*, are arguments that begin with a hyphen or dash (`-`). (In the default Windows Command Prompt program, options sometimes begin with a forward slash [`/`] instead of a dash, but the concept is identical.) You haven&rsquo;t seen any options yet. Options themselves come in two common forms:
     * **Short options** - These are arguments that start with a dash and are only one additional character long. For example, when you see an argument such as `-a` on a command line, that is a short option.
     * **Long options** - These are arguments that start with two dashes and can be any number of characters long. For example, when you see an argument such as `--all` on a command line, that is a long option.
-* **Option terminator** - This special argument is always written as two dashes by itself (`--`) and it signals to the executable that the following arguments are *not* to be treated options, even if it also starts with a dash.
+* **Option terminator** - This special argument is always written as two dashes by itself (`--`) and it signals to the executable that any following arguments are *not* to be treated as options, even if they also start with a dash.
 
-Some options also need you to supply an argument *to the option*. These arguments are called *option arguments*, which is not nearly as confusing in practice as it sounds right now. Options that do not require an argument of their own are also sometimes called *flags* because they only have two possible states, as they are either present or absent.
+Some options also need you to supply an argument *to the option*. These arguments are called *option arguments*, which is not nearly as confusing in practice as it sounds right now. Options that do not require an argument of their own are also sometimes called *flags* because they only have two possible states: they are either present or absent.
 
 As you&rsquo;ll soon see, when you write most commands, you&rsquo;ll write them and their arguments in the following order:
 

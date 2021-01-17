@@ -26,7 +26,7 @@ echo [-neE] [arg ...]
 
 A synopsis is a short summary and serves the same purpose in a command line language as it does in a human langauge. The idea is that you can use the synopsis to quickly refresh your memory about how you use a given command, or to look up more information if you want to dive deeper.
 
-Command synopses always start with the name of the command (`echo`), because as we learned previously, the first word of a command line is always going to be the executable that you are using. If you are using the `echo` command, it means the very first word on your command line must be `echo`.
+Command synopses always start with the name of the command (`echo`) because, as we learned previously, the first word of a command line is always going to be the executable that you are using. If you are using the `echo` command, it means the very first word on your command line must be `echo`.
 
 Next, we see some *short options*, which are the letters that begin with the single hyphen or dash character (`-`). These options are listed in square brackets (`[` and `]`), which indicate that they can be omitted. That is, these options are, well, optional. Perhaps confusingly, not all *option arguments* are optional! But in this case, they are, and we know that because the command synopsis shows the option arguments in square brackets.
 
