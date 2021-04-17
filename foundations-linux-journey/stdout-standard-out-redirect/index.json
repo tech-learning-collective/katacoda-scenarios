@@ -74,8 +74,12 @@
                 "text": "step16.md"
             },
             {
-                "title": "grep",
+                "title": "seq, jot, and rs",
                 "text": "step17.md"
+            },
+            {
+                "title": "grep",
+                "text": "step18.md"
             }
         ],
         "finish": {
